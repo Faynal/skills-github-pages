@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Welcome guys to my blog! AGS CUSTOM STRINGS
 ---
